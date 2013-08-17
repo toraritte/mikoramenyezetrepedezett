@@ -12,7 +12,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'bcrypt-ruby', '~> 3.0.0'
 gem 'pry-rails'
-gem 'slim'
+gem 'slim-rails'
 
 group :development, :test do
   gem 'rspec-rails', '~> 2.0'
